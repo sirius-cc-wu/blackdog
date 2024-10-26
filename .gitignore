@@ -1,3 +1,4 @@
 blackdog*tar.gz
 Blackdog*whl
 src/Blackdog.egg-info
+src/blackdog/__pycache__
